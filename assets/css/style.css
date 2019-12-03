@@ -1,0 +1,101 @@
+/*nav*/
+.navbar-brand img {
+    width: 110px;
+}
+
+/*hero*/
+.hero {
+    text-align: center;
+    color: green;
+
+}
+
+/*reviews carousel*/
+#reviews {
+    padding: 0px;
+    text-align: center;
+}
+
+#reviews h1,
+#reviews p {
+    color: green;
+    max-width: 850px;
+    margin: 10px auto;
+}
+
+#reviews h5,
+#reviews h6 {
+    color: black;
+    background-color: rgba(0, 255, 0, 0.5);
+    max-width: 850px;
+    margin: 10px auto;
+}
+
+/*footer*/
+footer {
+    padding: 20px 0px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 14px;
+    color: green;
+}
+
+/*"Schedule" button*/
+.btn-primary {
+    background: green;
+    color: white;
+    border-color: green;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.btn-primary:hover {
+    background: white;
+    color: green;
+    border-color: green;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+/*schedule pop-up form*/
+.modal-title,
+.modal-body {
+    text-align: center;
+    color: green;
+}
+
+/*pop-up form "Save Changes" button*/
+.btn-save {
+    background: white;
+    color: green;
+    border-color: green;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.btn-save:hover {
+    background: green;
+    color: white;
+    border-color: green;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+/*pop-up form "Close" button*/
+.btn-secondary {
+    background: white;
+    color: green;
+    border-color: green;
+}
+
+.btn-secondary:hover {
+    background: lightgray;
+    color: green;
+    border-color: green;
+}
